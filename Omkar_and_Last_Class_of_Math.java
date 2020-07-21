@@ -21,7 +21,7 @@ public class Omkar_and_Last_Class_of_Math {
                 int a=i;
                 int b=n-i;
                 int gc=obj.gcd(a,b);
-                int lcm
+                int lcm g
 
               }
                
